@@ -5,10 +5,6 @@
     <link>https://tkishimo.github.io/categories/</link>
     <description>Recent content in Categories on フシギラボ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://tkishimo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja</language><atom:link href="https://tkishimo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
